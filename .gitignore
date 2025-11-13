@@ -1,0 +1,64 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+.venv/
+
+# Go
+bin/
+pkg/
+vendor/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Rust
+/target/
+
+# Build / packaging
+dist/
+build/
+coverage/
+coverage.xml
+*.log
+
+# Secrets / local config
+.env
+.env.local
+.env.*.local
+secrets.*
+*.key
+*.pem
+
+# Misc
+.DS_Store?

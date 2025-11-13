@@ -1,0 +1,6 @@
+playwright
+pillow
+img2pdf
+aiohttp
+customtkinter>=5.0.0
+tkinterdnd2>=0.3.0
